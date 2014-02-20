@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-element-text",
+  "description": "text, plugin for element",
+  "version": "0.0.1",
+  "keywords": [
+    "element",
+    "text"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
